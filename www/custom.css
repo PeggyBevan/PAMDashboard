@@ -1,0 +1,21 @@
+.main-header .logo {
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 20px;
+  height: 105px;
+  text-align: justify;
+  padding-top: 5px;
+  margin-top: 0px;
+}
+
+.main-header {
+         max-height: 105px;
+        }
+        
+.main-sidebar {
+  margin-top: 50px;
+}
+
+.main-body {
+  font-family: 'Arial';
+}
