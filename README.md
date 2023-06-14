@@ -1,5 +1,7 @@
 # PAMDashboard
 A shiny app for displaying results of a PAM survey
+The current working version of this can be seen here: 
+https://peggybev.shinyapps.io/acousticdashboard/
 
 This script creates a shiny dashboard app that can be used to display detection records from a PAM survey. 
 In order to make this work, a csv containing species' detections needs to be in the 'data' folder of this directory. 
