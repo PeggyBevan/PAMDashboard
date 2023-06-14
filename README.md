@@ -22,7 +22,7 @@ Server - This is the section that builds the plots, gets important statistics fr
 The final line uses the shinyApp() function to put the UI and server together
 
 Online tools for shiny:
-Introduction to shiny using R: z
+Introduction to shiny using R: https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html
 Introduction to shinydashboard: https://rstudio.github.io/shinydashboard/get_started.html
 
 Bringing the app online
