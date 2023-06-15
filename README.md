@@ -10,9 +10,16 @@ Only include one detection csv in the data folder! There should also be a csv ca
 the data folder: this contains all the information about protection levels of certain species and 
 can be updated if a species' status changes.
 
-How to use this script:
-Before running this app for the first time, run the script called 'requirements'. This will make sure you have all the correct packages
-installed. You only need to do this once. Click Run App on the top right of the script window to get the app to run in the plot viewer or on your browser. 
+PLEASE NOTE: You will need R & RStudio installed to edit this app
+
+Getting started:
+To download this app as zip file, click the green 'code' button on the top right of the folder list, then select 'download as zip file'
+from the dropdown list.
+Expand the zip file and save it somewhere useful. You can then open an r project and set your working directory to the 'PAMdashboard' folder.
+
+Before running this app for the first time, run the script called 'requirements.r'. This will make sure you have all the correct packages
+installed. You only need to do this once. 
+To test the app, open app.R script and click Run App on the top right of the script window to get the app to run in the plot viewer or on your browser. 
 
 app.R Script layout:
 pre-amble - the first lines of this script load packages, the detections csv and sets the RSK wilding colour palette. These shouldn't need much editing unless
